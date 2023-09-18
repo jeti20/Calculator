@@ -1,3 +1,3 @@
 # Calculator
 Simple C++ calculator.
-![](https://github.com/jeti20/Calculator/media/1.PNG)
+![](https://github.com/jeti20/Calculator/blob/main/Calculator/Media/1.PNG)
